@@ -1,0 +1,5 @@
+Error :
+No mapping found for HTTP request with URI [/WEB-INF/views/index.jsp] in DispatcherServlet with name 'dispatcherServlet'
+
+Solution:
+https://stackoverflow.com/questions/38961157/no-mapping-found-for-http-request-with-uri-web-inf-views-welcome-jsp-in-dispa
